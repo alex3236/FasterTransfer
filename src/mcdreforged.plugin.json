@@ -1,0 +1,14 @@
+{
+    "id": "faster_transfer",
+    "version": "0.1.0",
+    "name": "Faster Transfer",
+    "description": {
+        "en_us": ":rocket: Make web? file transfers faster!",
+        "zh_cn": ":rocket: 让任何 MCDR 插件的网络文件传输更迅速！"
+    },
+    "dependencies": {
+        "mcdreforged": ">=2.2.0"
+    },
+    "author": "Alex3236",
+    "link": "https://github.com/alex3236/FasterTransfer"
+}
