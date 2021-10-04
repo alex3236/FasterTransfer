@@ -25,7 +25,10 @@
 ### :arrow_forward:	启用插件
 
 ```plain
+若已禁用:
 !!MCDR plugin enable FasterTransfer-vx.x.x.mcdr.disabled
+若未禁用:
+!!MCDR plugin enable FasterTransfer-vx.x.x.mcdr
 ```
 
 ### :stop_button: 禁用插件
