@@ -1,0 +1,2 @@
+# FasterTransfer
+ A MCDR plugin
