@@ -20,21 +20,21 @@
 
 ## :page_facing_up: 使用说明
 
-只需要扔进插件文件夹并正常载入。无需任何配置。
+1. 扔进插件文件夹
+2. `!!MCDR r plg`
 
-### :arrow_forward:	启用插件
-
-```plain
-若已禁用:
-!!MCDR plugin enable FasterTransfer-vx.x.x.mcdr.disabled
-若未禁用:
-!!MCDR plugin enable FasterTransfer-vx.x.x.mcdr
-```
+无需任何配置。
 
 ### :stop_button: 禁用插件
 
 ```plain
 !!MCDR plugin disable faster_transfer
+```
+
+### :arrow_forward:	启用（被禁用的）插件
+
+```plain
+!!MCDR plugin enable FasterTransfer-vx.x.x.mcdr.disabled
 ```
 
 ## :gear: 原理
